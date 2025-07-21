@@ -1,4 +1,4 @@
-https://github.com/Brettporter1/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg
+![action badge](https://github.com/Brettporter1/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
